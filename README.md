@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pequege&label=Profile%20views&color=0e75b6&style=flat" alt="pequege" /> </p>
 <h1 align="center">👋 Hi , I'm Gerardo Mansilla</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
