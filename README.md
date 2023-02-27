@@ -33,6 +33,12 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a>
 </p>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pequege&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pequege" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pequege&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pequege" /></p><br>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pequege&&theme=tokyonight" alt="pequege" /></p>
+
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pequege&&theme=tokyonight" alt="pequege" /></a> </p>
 
 >generated with [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
