@@ -33,9 +33,9 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pequege&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pequege" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pequege&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pequege" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pequege&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pequege" /></p><br>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pequege&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pequege" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pequege&&theme=tokyonight" alt="pequege" /></p>
 
